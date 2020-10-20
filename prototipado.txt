@@ -1,0 +1,84 @@
+PROTOTIPADO
+Construccion de prototipos cuanlquier cosa q trasnforme su idea
+Para q:
+Se ahorra tiempo y dinero
+Aprendems tanto como podemos del producto. Se reduce la incertifumbre en la implementacion
+Cumplir y sobrepoasar kas expectativas del cliente
+
+Es ara demostrar uqe su idea es posible. Buscando reducir t de servicio
+Materializar la idea:
+varia sppptas de valr
+varias hiopotesis a validar
+varias caracterisits en el pdto a las cuales pueada ir descartando
+MODELO EXPERIMENTAL DE UNA IDEA es un prototipo en Google
+FAse sde Prototipado
+a. exploratoria
+b. fase experimental , mejorar los elementos claves del concepto para probarlos uno a uno
+c. fase funcional del prototipo ; ver cada elemento como funciona x separado
+ES HACER EXPERIMENTOS PARA APRENDER Q TENGO EL PDTO
+****** CONSTRUIR, PROBAR , APRENDER , ITERAR ESO ES PROTOTIPAR  **
+eL prototipado es solo para pdtos, F
+el prototipo debe validarse bajo una muestra de personas grande, 
+el prototipo toma mucho tiempo, F
+
+
+A.Prototipos aplicados a PROCESO
+b.Prototipos aplicados a Servicio
+c.Prototipos aplicados a PROducto
+
+Segun Nielsen N Group , el valor de la validacion cualitativa se encuentra en las muestras pequeñas.
+
+TIPOS de prototipado
+Exploratorio aproximacion cercana. Se muestra lo que podria ser el concepto. No se busca validar la FORMA. Prmite validar la ppta de valor de MI CONCEPTO . x 1/2 DE sTORYbOAD
+, Experimental muestra lo exoeriuecia de uso. cON wIREfRAMES, facilita simular las acciones y los elementos q necesitamos amterializar. Spotyfy. Aspectos claves:Los puntos de contacto; LA FIDELIDAD; LA EXPERIENCIA  
+y funcional, lo q sera el concepto en una exp real; materializar las caracteristicas de forma y tecnicas. juego de roles, la vision de cliente, y la de Empleado. INTERACCION ENTRE EL BACK, MIDDLE Y FRONT
+
+
+tecnicas de VALIDACION, retroalimentacion HONESTA.prueba de usuario, exponer ntro prototipo con los usuarios reales con retro HONESTA
+DISECCIONAMOS EN funciones y caraceristicas y vamos probando cual funciona y cual NO
+PROBAR CON EL USUARIIO EN SU CONTEXTO REAL. No es vender la idea. >Es preguntarnos realmente estamos resolviendo una necesidad ?
+TECNICAS DE VALIDACION oBSERVACION , ANALISIS , ENCUESTAS , ALGORITMOS DE IA
+
+tips
+observar que hacen para descubrit 
+intentar ser neutral al presentar la propuesta. Enamorate del problema no de la solucuion
+Evitar evaluar yo para q sea mas objetiva la validacon , el que present
+
+EMPATIA Es la capacidad para entenderse y relacionarse con el otro
+RETROALIMENTACION info recopilada de los usuarios como comm, comportamientos o reacciones particulares q exponen las relaciones ocultas entre causa y efecto
+
+Objetivos de la evaluacion
+Descubrir con la Escala de LIKERT  ( EVLUAR  SI ES EMOCION  
+EVALUAR LA SATISFACCION DE UN USUARIO CON EL PDTO. Responder 4 pregutnas
+COMPARAR las opciones para q el usuario escoja cual variacion escoja
+
+
+proceso ed iteracion
+a. Revision de la Info, se socializa los hallazgos y oportunidades encontradas en el proceso de validacion
+
+b. Conclusion, se identifica y prioriza mejoras de ntra ppta segun los fresutlados de validacion
+
+c. Ajustes, se impolementan las mejoras en el prototipo y se vuelve a validar
+
+Hay q ser objetivos, evitando las blue words, palabras ambiguedades
+PRIORIZACION, en la validacion es usar estas herramientas para mejorar la toma de decision  con Moscow
+Traducir hallazgos, traducir el valor de lo que quieren los usuarios
+De pronto la gente queria era Caballos mas rapido, Y no se puso a entrenar caballos pq entendio q la
+gente queria traspostarse mas rapido
+M lo q debe tener 
+o
+s
+C
+o
+BENEFICIOS DE ITERAR
+* OOnernos en los zapatos del usuario
+* Dejar atras los paradigmas
+* Materializar las ideas 
+* Generar nuevas ideas
+* Ahorrar dinero en el largo plazo
+
+
+
+
+
+
