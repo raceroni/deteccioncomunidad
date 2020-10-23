@@ -1,0 +1,8 @@
+Resumen de Entropias.  Totsent  19576 
+Sentencias 3917  Factor 0.20009194932570495 ;  Entropia del cluster :  -0.21132503194170726
+Sentencias 4858  Factor 0.2481610134859011 ;  Entropia del cluster :  -0.14992708852849407
+Sentencias 3906  Factor 0.19953003677973027 ;  Entropia del cluster :  -0.11177553250881628
+Sentencias 3084  Factor 0.15753984470780547 ;  Entropia del cluster :  -0.270294336688115
+Sentencias 3811  Factor 0.1946771557008582 ;  Entropia del cluster :  -0.4538787169203604
+
+La entropia gral para 5 x 10 es -0.23273501740376829
