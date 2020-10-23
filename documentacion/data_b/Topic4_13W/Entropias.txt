@@ -1,0 +1,7 @@
+Resumen de Entropias. Tot sente 19573 
+Sentencias 4408  Factor 0.22520819496244826 ;  Entropia del cluster :  -0.19811517965199216
+Sentencias 5626  Factor 0.28743677514944055 ;  Entropia del cluster :  -0.16199254726763307
+Sentencias 4347  Factor 0.22209165687426558 ;  Entropia del cluster :  -0.09944846955082443
+Sentencias 5192  Factor 0.2652633730138456 ;  Entropia del cluster :  -0.43083099571073113
+
+La entropia gral es -0.2275501358862328
