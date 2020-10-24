@@ -1,0 +1,9 @@
+Resumen de Entropias, total sentencias : 19662
+Sentencias 2840  Factor 0.1444410538093785 ;  Entropia del cluster :  -0.3031297018296543
+Sentencias 4229  Factor 0.21508493540840198 ;  Entropia del cluster :  -0.2862372483348574
+Sentencias 3480  Factor 0.17699115044247787 ;  Entropia del cluster :  -0.14729309226791876
+Sentencias 2562  Factor 0.13030210558437597 ;  Entropia del cluster :  -0.29220786382853214
+Sentencias 3760  Factor 0.19123181771945885 ;  Entropia del cluster :  -0.4598939804382056
+Sentencias 2791  Factor 0.14194893703590683 ;  Entropia del cluster :  -0.3003836051705936
+
+La entropia gral para 6 x 13 es -0.3000800627150934
