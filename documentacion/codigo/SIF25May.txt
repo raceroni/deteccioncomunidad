@@ -1,0 +1,45 @@
+rt codechocoprensa e i 0 j 1,  Similaridad : 0.01789490648842406
+rt codechocoprensa e i 0 j 2,  Similaridad : -0.15209976434686903
+rt codechocoprensa e i 0 j 3,  Similaridad : -0.06774141059961065
+rt codechocoprensa e i 0 j 4,  Similaridad : 0.14358701106217428
+rt codechocoprensa e i 0 j 5,  Similaridad : -0.11472488054286269
+rt codechocoprensa e i 0 j 6,  Similaridad : -0.32652049621907575
+rt codechocoprensa e i 0 j 7,  Similaridad : -0.004763032238656473
+rt codechocoprensa e i 0 j 8,  Similaridad : 0.06165782301429048
+rt codechocoprensa e i 0 j 9,  Similaridad : -0.2643214421980207
+diamundialdelosanima i 1 j 2,  Similaridad : 0.17667360777664892
+diamundialdelosanima i 1 j 3,  Similaridad : 0.2324702730874003
+diamundialdelosanima i 1 j 4,  Similaridad : 0.024829956602052207
+diamundialdelosanima i 1 j 5,  Similaridad : -0.2804246898404935
+diamundialdelosanima i 1 j 6,  Similaridad : 0.03187527039684243
+diamundialdelosanima i 1 j 7,  Similaridad : -0.2778099674220849
+diamundialdelosanima i 1 j 8,  Similaridad : 0.11109371278946696
+diamundialdelosanima i 1 j 9,  Similaridad : -0.20249537340151516
+rt corpochivor hoy d i 2 j 3,  Similaridad : -0.2916097809381418
+rt corpochivor hoy d i 2 j 4,  Similaridad : 0.20077287016497128
+rt corpochivor hoy d i 2 j 5,  Similaridad : -0.20633551730937486
+rt corpochivor hoy d i 2 j 6,  Similaridad : -0.17619756091174893
+rt corpochivor hoy d i 2 j 7,  Similaridad : 0.03874138865414778
+rt corpochivor hoy d i 2 j 8,  Similaridad : 0.09907657952861271
+rt corpochivor hoy d i 2 j 9,  Similaridad : -0.22248144552341653
+rt proteccionponal h i 3 j 4,  Similaridad : -0.1627488771390672
+rt proteccionponal h i 3 j 5,  Similaridad : -0.3142696242565643
+rt proteccionponal h i 3 j 6,  Similaridad : -0.02346131948170768
+rt proteccionponal h i 3 j 7,  Similaridad : -0.47267479127023304
+rt proteccionponal h i 3 j 8,  Similaridad : -0.049399366501334405
+rt proteccionponal h i 3 j 9,  Similaridad : 0.08151069270537
+sina25anos hoy celeb i 4 j 5,  Similaridad : -0.20047041791236822
+sina25anos hoy celeb i 4 j 6,  Similaridad : -0.2818815894451797
+sina25anos hoy celeb i 4 j 7,  Similaridad : -0.15331724719162262
+sina25anos hoy celeb i 4 j 8,  Similaridad : 0.10921245651845266
+sina25anos hoy celeb i 4 j 9,  Similaridad : -0.2520790326546337
+rt infopresidencia h i 5 j 6,  Similaridad : -0.07942019881178089
+rt infopresidencia h i 5 j 7,  Similaridad : 0.5669506346097067
+rt infopresidencia h i 5 j 8,  Similaridad : -0.10474739134532908
+rt infopresidencia h i 5 j 9,  Similaridad : -0.12269216733587467
+crautonoma ivanduque i 6 j 7,  Similaridad : -0.13822353682163996
+crautonoma ivanduque i 6 j 8,  Similaridad : -0.04423049152504059
+crautonoma ivanduque i 6 j 9,  Similaridad : -0.23868229549662867
+rt minvivienda hoy c i 7 j 8,  Similaridad : -0.06285048079422155
+rt minvivienda hoy c i 7 j 9,  Similaridad : -0.2513674009861101
+rt ideamcolombia dia i 8 j 9,  Similaridad : -0.5028941770771348
