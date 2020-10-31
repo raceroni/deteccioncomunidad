@@ -1,1 +1,15 @@
 Fuentes implementados para el proyecto
+
+1. Para el embebimiento de palabras por el metodo Word2vec se tomo el fuente que aparece en,
+
+https://github.com/DerekChia/word2vec_numpy/blob/master/wordtovec.py
+
+2. Para el embebimiento de Sentencias por el metodo Smoth Inverse Frequency, SIF, se tomaron los fuentes de 
+
+https://github.com/PrincetonML/SIF
+
+El archivo de datos Ini25May.txt contiene 140 tweets a embeber por SIF y por el Codificador Universal de Sentencias de Google.
+
+El archivo Sal25May.txt contiene los vectores de palabra de dimensión 32, generados por el metodo Word2vec.
+
+3. El archivo SIF25May.txt contiene el calculo de la similaridad de coseno para las sentencias embebidas por SIF
