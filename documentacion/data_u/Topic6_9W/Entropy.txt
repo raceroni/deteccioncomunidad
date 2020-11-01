@@ -1,0 +1,33 @@
+Modulo https://tfhub.dev/google/nnlm-es-dim128-with-normalization/2  cargado.
+Finalizamos topico 0.
+Finalizamos topico 1.
+Finalizamos topico 2.
+Finalizamos topico 3.
+Finalizamos topico 4.
+Finalizamos topico 5.
+Fin Topicos. Ahora Calculo de Entropia total, Acumulado sentencias : 15156
+Cuantas  2167 0.14297967801530748
+2167 -- 
+Entropia del cluster   -0.18827599343679305
+-0.18827599343679305 -- 
+Cuantas  3038 0.20044866719451043
+3038 -- 
+Entropia del cluster   -0.16652328674499217
+-0.16652328674499217 -- 
+Cuantas  2420 0.1596727368698865
+2420 -- 
+Entropia del cluster   -0.16952466546545814
+-0.16952466546545814 -- 
+Cuantas  2697 0.17794932699920823
+2697 -- 
+Entropia del cluster   -0.09421383505045391
+-0.09421383505045391 -- 
+Cuantas  2702 0.17827922934811297
+2702 -- 
+Entropia del cluster   -0.03646228453904706
+-0.03646228453904706 -- 
+Cuantas  2132 0.1406703615729744
+2132 -- 
+Entropia del cluster   -0.07054934927356891
+-0.07054934927356891 -- 
+Fin Análisis.  La entropia Gral es  -0.12055743810649604
