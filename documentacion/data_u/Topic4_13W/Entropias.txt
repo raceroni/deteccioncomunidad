@@ -1,0 +1,7 @@
+Resumen de Entropias
+Sentencias 3315  Factor 0.22039757994814174 ;  Entropia del cluster :  -0.16497180039275944
+Sentencias 4375  Factor 0.29087161757861846 ;  Entropia del cluster :  -0.21950628816960374
+Sentencias 3675  Factor 0.2443321587660395 ;  Entropia del cluster :  -0.14962538275225704
+Sentencias 3676  Factor 0.24439864370720032 ;  Entropia del cluster :  -0.08548577438536803
+
+La entropia gral es -0.15765843476492067
